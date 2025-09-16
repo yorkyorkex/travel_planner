@@ -1,25 +1,30 @@
 # Google Maps URL 修正指南
 
 ## 問題分析
+
 當前 AI 生成的 Google Maps 網址格式不正確，無法正常連接。
 
 ## 正確的 Google Maps URL 格式
 
 ### 1. 搜索 URL 格式 (推薦)
+
 ```
 https://www.google.com/maps/search/?api=1&query=LOCATION_NAME+FULL_ADDRESS
 ```
 
 **示例:**
+
 - Tokyo Skytree: `https://www.google.com/maps/search/?api=1&query=Tokyo+Skytree+1-1-2+Oshiage+Sumida+City+Tokyo+Japan`
 - Senso-ji Temple: `https://www.google.com/maps/search/?api=1&query=Senso-ji+Temple+2-3-1+Asakusa+Taito+City+Tokyo+Japan`
 
 ### 2. 地點 URL 格式
+
 ```
 https://www.google.com/maps/place/LOCATION_NAME/@LATITUDE,LONGITUDE,ZOOM
 ```
 
 ### 3. 方向 URL 格式
+
 ```
 https://www.google.com/maps/dir/ORIGIN/DESTINATION
 ```
@@ -27,6 +32,7 @@ https://www.google.com/maps/dir/ORIGIN/DESTINATION
 ## 修正方法
 
 ### 方法 1: 更新任務描述
+
 在 `tasks.yaml` 中指定確切的 URL 格式：
 
 ```yaml
@@ -42,10 +48,13 @@ Rules:
 ```
 
 ### 方法 2: 創建 URL 驗證工具
+
 可以創建一個專門的工具來生成和驗證 Google Maps URL。
 
 ### 方法 3: 使用更具體的搜索指令
+
 告訴 AI：
+
 ```
 For each location, provide Google Maps URL in this EXACT format:
 https://www.google.com/maps/search/?api=1&query=Tokyo+Skytree+1-1-2+Oshiage+Sumida+City+Tokyo+131-0045+Japan

@@ -28,7 +28,7 @@ itinerary_planning_task:
     - Operating hours and seasonal schedules
     - Entrance fees and booking requirements
     - Nearest train/subway station with walking time
-    
+
     Organize activities by:
     - Day-by-day schedule optimized for {travel_season} weather conditions
     - Morning, afternoon, and evening activities with specific times
@@ -51,7 +51,7 @@ local_insights_task:
     - Operating hours and seasonal availability
     - Contact information (phone, website) when available
     - Nearest public transportation access
-    
+
     Cover these areas:
     - Hidden gems and off-the-beaten-path locations with precise addresses
     - Best local restaurants with full address, phone, and Google Maps links
@@ -92,7 +92,7 @@ final_travel_plan_task:
   description: >
     Compile all seasonal research, itinerary, local insights, and budget information into a comprehensive 
     travel plan for {destination} starting {start_date} ({travel_season} season). 
-    
+
     Create a detailed master document with:
     - Executive summary highlighting seasonal travel advantages
     - Complete day-by-day itinerary with:
@@ -108,7 +108,7 @@ final_travel_plan_task:
     - Pre-trip checklist with booking links when possible
     - Weather patterns and seasonal expectations
     - Alternative plans with backup venue addresses
-    
+
     Format all location information consistently as:
     **Location Name**
     Address: [Full Address]
@@ -116,23 +116,23 @@ final_travel_plan_task:
     Hours: [Operating Hours]
     Contact: [Phone/Website]
     Notes: [Special information]
-    
+
     CRITICAL: Google Maps URLs must use EXACTLY this format:
     https://www.google.com/maps/search/?api=1&query=Tokyo+Skytree+1-1-2+Oshiage+Sumida+City+Tokyo+Japan
-    
+
     URL Generation Rules:
     1. Start with: https://www.google.com/maps/search/?api=1&query=
     2. Add location name + full address
     3. Replace ALL spaces with + signs
     4. Remove commas and parentheses from query
     5. Use English address format
-    
+
     Example URLs that work:
     - https://www.google.com/maps/search/?api=1&query=Tokyo+Skytree+1-1-2+Oshiage+Sumida+City+Tokyo+Japan
     - https://www.google.com/maps/search/?api=1&query=Senso-ji+Temple+2-3-1+Asakusa+Taito+City+Tokyo+Japan
-    
+
     DO NOT use old formats like maps.google.com/maps?q= or shortened URLs.
-    
+
     After completing the markdown document, use the HTML Generator tool to create an interactive 
     HTML version with embedded Google Maps and enhanced formatting.
   expected_output: >
