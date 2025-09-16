@@ -18,21 +18,21 @@ warnings.filterwarnings("ignore", category=SyntaxWarning, module="pysbd")
 def get_user_input():
     """Get travel planning inputs from user."""
     print("=== Travel Planner AI ===")
-    print("讓我來幫您規劃一次完美的旅行！")
+    print("Let me help you plan the perfect trip!")
     print()
     
-    destination = input("請輸入您想去的目的地 (例如: Tokyo, Japan): ").strip()
+    destination = input("Enter your desired destination (e.g., Tokyo, Japan): ").strip()
     
     while True:
         try:
-            duration = int(input("請輸入旅行天數 (例如: 7): ").strip())
+            duration = int(input("Enter trip duration in days (e.g., 7): ").strip())
             break
         except ValueError:
-            print("請輸入有效的數字")
+            print("Please enter a valid number")
     
-    budget = input("請輸入您的預算 (例如: $3000 USD): ").strip()
+    budget = input("Enter your budget (e.g., $3000 USD): ").strip()
     
-    travel_style = input("旅行風格 (可選，例如: luxury, budget, adventure, cultural): ").strip()
+    travel_style = input("Travel style (optional, e.g., luxury, budget, adventure, cultural): ").strip()
     
     return {
         'destination': destination,
@@ -62,15 +62,15 @@ def run():
             # Interactive mode
             inputs = get_user_input()
         
-        print(f"\n正在為您規劃 {inputs['destination']} 的 {inputs['duration']} 天旅行...")
-        print(f"預算: {inputs['budget']}")
-        print("請稍候，AI 代理團隊正在工作中...\n")
+        print(f"\nPlanning your {inputs['duration']}-day trip to {inputs['destination']}...")
+        print(f"Budget: {inputs['budget']}")
+        print("Please wait, our AI agent team is working...\n")
         
         result = TravelPlanner().crew().kickoff(inputs=inputs)
         
         print("\n" + "="*50)
-        print("旅行規劃完成！")
-        print("詳細的旅行計劃已保存到 travel_plan.md 文件中")
+        print("Travel Planning Complete!")
+        print("Detailed travel plan has been saved to travel_plan.md")
         print("="*50)
         
         return result
