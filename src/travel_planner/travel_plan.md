@@ -1,171 +1,148 @@
-# Comprehensive Travel Itinerary for Taipei, Taiwan (October 16-20, 2025)
+# Tainan, Taiwan 2-Day Itinerary (December 15-16, 2025)
 
-## Executive Summary
-October is an ideal time to explore Taipei, Taiwan, thanks to its mild temperatures averaging between 20°C and 25°C (68°F - 77°F), reduced humidity, and the vibrant atmosphere of autumn festivals. Key attractions like Taipei 101 and Elephant Mountain offer stunning views, while local night markets provide delicious culinary experiences. The cultural richness of the city, with events such as the Mid-Autumn Festival and the annual LGBT Pride Parade, makes this a season not to be missed.
+## Executive Summary  
+**Seasonal Travel Advantages**:  
+Tainan during December offers mild weather with average temperatures of 19–23°C (66–73°F) and lower rainfall, making it ideal for outdoor activities. The city features vibrant cultural events like Christmas celebrations and the Winter Solstice Festival, enriching the travel experience.
 
-## Weather Conditions
-- **Average Temperature**: 20°C to 25°C (68°F to 77°F)
-- **Weather Patterns**: Expect occasional rain, so a light jacket or rain gear is recommended.
+## Day 1: December 15, 2025
 
-## Day 1: October 16 (Thursday)
 ### Morning
-- **Taipei 101**  
-  **Address**: 7, Sec. 5, Xinyi Rd, Xinyi District, Taipei City, Taiwan 110  
-  [Google Maps](https://www.google.com/maps/search/?api=1&query=Taipei+101+7+Sec.+5+Xinyi+Rd+Xinyi+District+Taipei+City)  
-  **Hours**: 9:00 AM - 10:00 PM  
-  **Contact**: [Website](https://www.taipei101.com.tw)
+- **Breakfast at Du Hsiao Yueh (Zhongzheng Flagship Store)**  
+  Address: 66, Section 2, Zhongzheng Road, Tainan City, Taiwan  
+  Phone: +886 6 222 2022  
+  [Google Maps](https://www.google.com/maps/search/?api=1&query=Du+Hsiao+Yueh+66+Section+2+Zhongzheng+Road+Tainan+City+Taiwan)  
+  - **Hours:** 8:00 AM - 10:00 PM  
+  - **Specialty:** Danzai noodles, a local favorite.  
+  Estimated cost: $7 per person.
+
+- **Visit Chihkan Tower**  
+  Address: 3-1, Minsheng Road, Tainan City, Taiwan  
+  [Google Maps](https://www.google.com/maps/search/?api=1&query=Chihkan+Tower+3-1+Minsheng+Road+Tainan+City+Taiwan)  
+  - **Hours:** 8:30 AM - 6:00 PM  
+  - **Entrance Fee:** NT$100  
+  - **Transport:** 15-minute walk from the restaurant.
 
 ### Afternoon
-- **Lunch at Yong He Soy Milk King**  
-  **Address**: 1F, No. 1, Lane 58, Xinyuan St, Da'an District, Taipei City, Taiwan 106  
-  [Google Maps](https://www.google.com/maps/search/?api=1&query=Yong+He+Soy+Milk+King+1F+No.+1+Lane+58+Xinyuan+St+Da'an+District+Taipei+City)  
-  **Contact**: +886 2 2341 0288
+- **Lunch at Hayashi Department Store**  
+  Address: 16, Section 2, Zhongyi Road, Tainan City, Taiwan  
+  Phone: +886 6 222 0808  
+  [Google Maps](https://www.google.com/maps/search/?api=1&query=Hayashi+Department+Store+16+Section+2+Zhongyi+Road+Tainan+City+Taiwan)  
+  - **Hours:** 10:00 AM - 10:00 PM  
+  - **Specialty:** Local snacks and souvenirs.  
+  Estimated cost: $10 per person.
 
-- **Da’An Forest Park**  
-  **Address**: No. 1, Sec. 2, Xinsheng S. Rd., Da'an Dist., Taipei City, Taiwan 106  
-  [Google Maps](https://www.google.com/maps/search/?api=1&query=Da'An+Forest+Park+No.+1+Sec.+2+Xinsheng+S.+Rd.+Da%27an+Dist.+Taipei+City)  
-  **Hours**: Open 24 hours
+- **Explore Anping Tree House**  
+  Address: 3, Anping Road, Tainan City, Taiwan  
+  [Google Maps](https://www.google.com/maps/search/?api=1&query=Anping+Tree+House+3+Anping+Road+Tainan+City+Taiwan)  
+  - **Hours:** 9:30 AM - 6:00 PM  
+  - **Entrance Fee:** NT$50  
+  - **Transport:** 20 minutes by public bus.
 
 ### Evening
-- **Elephant Mountain Hike**  
-  **Address**: Alley 342, Lane 150, Xiangshan Rd, Xinyi District, Taipei City, Taiwan 110  
-  [Google Maps](https://www.google.com/maps/search/?api=1&query=Elephant+Mountain+Alley+342+Lane+150+Xiangshan+Rd+Xinyi+District+Taipei+City)  
-  **Hours**: Open 24 hours
+- **Dinner at Chou's Shrimp Rolls**  
+  Address: No. 108, Section 1, Anping Road, Tainan City, Taiwan  
+  Phone: +886 6 299 8852  
+  [Google Maps](https://www.google.com/maps/search/?api=1&query=Chou's+Shrimp+Rolls+No.108+Section+1+Anping+Road+Tainan+City+Taiwan)  
+  - **Hours:** 10:00 AM - 10:00 PM  
+  - **Specialty:** Shrimp rolls, a local delicacy.  
+  Estimated cost: $15 per person.
 
-- **Dinner at Shilin Night Market**  
-  **Address**: No. 101, Jihe Rd, Shilin District, Taipei City, Taiwan 111  
-  [Google Maps](https://www.google.com/maps/search/?api=1&query=Shilin+Night+Market+No.+101+Jihe+Rd+Shilin+District+Taipei+City)  
-  **Hours**: 6:00 PM - 1:00 AM
+- **Visit Tainan Night Market (Nijia Night Market)**  
+  Address: Nanjing Rd., North District, Tainan City, Taiwan  
+  [Google Maps](https://www.google.com/maps/search/?api=1&query=Nanjing+Rd.+North+District+Tainan+City+Taiwan)  
+  - **Hours:** 6:00 PM - Midnight  
+  - **Transport:** 15-minute walk from dinner location.
 
----
+### Backup Plan
+- If it rains, visit **Chimei Museum** instead.  
+  Address: 66, Section 2, Kangle Road, Tainan City, Taiwan  
+  [Google Maps](https://www.google.com/maps/search/?api=1&query=Chimei+Museum+66+Section+2+Kangle+Road+Tainan+City+Taiwan)  
+  - **Hours:** 9:30 AM - 5:30 PM  
+  - **Entrance Fee:** NT$200  
+  - **Transport:** 30 minutes by public bus.
 
-## Day 2: October 17 (Friday)
+## Day 2: December 16, 2025
+
 ### Morning
-- **National Palace Museum**  
-  **Address**: No. 221, Sec. 2, Zhishan Rd., Shilin Dist., Taipei City, Taiwan 111  
-  [Google Maps](https://www.google.com/maps/search/?api=1&query=National+Palace+Museum+No.+221+Sec.+2+Zhishan+Rd.+Shilin+Dist.+Taipei+City)  
-  **Hours**: 9:00 AM - 5:00 PM  
-  **Contact**: [Website](https://www.npm.gov.tw/en)  
-  **Entrance Fee**: NTD 350 (~$12 USD) - book in advance.
+- **Breakfast at Puyuma Breakfast**  
+  Address: 22, Yancheng Street, Tainan City, Taiwan  
+  Phone: +886 6 218 5812  
+  [Google Maps](https://www.google.com/maps/search/?api=1&query=Puyuma+Breakfast+22+Yancheng+Street+Tainan+City+Taiwan)  
+  - **Hours:** 6:30 AM - 10:30 AM  
+  - **Specialty:** Taiwanese breakfast sets.  
+  Estimated cost: $5 per person.
+
+- **Visit Chimei Museum**  
+  - **Refer to backup plan of Day 1 for details.**
 
 ### Afternoon
-- **Lunch at Ah-Chung Mian Xian**  
-  **Address**: No. 8, Emei St, Wanhua District, Taipei City, Taiwan 108  
-  [Google Maps](https://www.google.com/maps/search/?api=1&query=Ah-Chung+Mian+Xian+No.+8+Emei+St.+Wanhua+District+Taipei+City)  
-  **Contact**: +886 2 2381 1101
+- **Lunch at Ding Fu Fa**  
+  Address: 5, Alley 14, Xinyi Road, Tainan City, Taiwan  
+  Phone: +886 6 213 2659  
+  [Google Maps](https://www.google.com/maps/search/?api=1&query=Ding+Fu+Fa+5+alley+14+Xinyi+Road+Tainan+City+Taiwan)  
+  - **Hours:** 10:00 AM - 3:00 PM  
+  - **Specialty:** Pork Lard Rice.  
+  Estimated cost: $8 per person.
 
-- **Longshan Temple**  
-  **Address**: No. 211, Guangzhou St, Wanhua District, Taipei City, Taiwan 108  
-  [Google Maps](https://www.google.com/maps/search/?api=1&query=Longshan+Temple+No.+211+Guangzhou+St+Wanhua+District+Taipei+City)  
-  **Hours**: 6:00 AM - 10:00 PM  
-  **Entrance Fee**: Free
-
-### Evening
-- **Dinner at Din Tai Fung**  
-  **Address**: 194, Xinyi Rd, Sec 2, Taipei City, Taiwan 110  
-  [Google Maps](https://www.google.com/maps/search/?api=1&query=Din+Tai+Fung+194+Xinyi+Rd+Sec+2+Taipei+City)  
-  **Contact**: +886 2 2321 8928
-
----
-
-## Day 3: October 18 (Saturday)
-### Morning
-- **Yangmingshan National Park**  
-  **Address**: Beitou District, Taipei City, Taiwan 112  
-  [Google Maps](https://www.google.com/maps/search/?api=1&query=Yangmingshan+National+Park+Beitou+District+Taipei+City)  
-  **Hours**: 8:00 AM - 6:00 PM  
-  **Entrance Fee**: Free
-
-### Afternoon
-- **Lunch at Grass Mountain Chateau**  
-  **Address**: No. 78, Zhuzihu Rd, Beitou District, Taipei City, Taiwan 112  
-  [Google Maps](https://www.google.com/maps/search/?api=1&query=Grass+Mountain+Chateau+No.+78+Zhuzihu+Rd+Beitou+District+Taipei+City)  
-  **Contact**: +886 2 2897 1888
+- **Visit Fort Zeelandia**  
+  Address: No. 50, Anping Road, Tainan City, Taiwan  
+  [Google Maps](https://www.google.com/maps/search/?api=1&query=Fort+Zeelandia+No.50+Anping+Road+Tainan+City+Taiwan)  
+  - **Hours:** 8:00 AM - 5:30 PM  
+  - **Entrance Fee:** NT$50  
+  - **Transport:** 15-minute walk from lunch location.
 
 ### Evening
-- **Dinner at Balle Balle Indian Restaurant**  
-  **Address**: 75, Sec. 3, Chengde Rd, Datong District, Taipei City, Taiwan 103  
-  [Google Maps](https://www.google.com/maps/search/?api=1&query=Balle+Balle+Indian+Restaurant+75+Sec.+3+Chengde+Rd+Datong+District+Taipei+City)  
-  **Contact**: +886 2 2552 0101
+- **Dinner at Danzai Noodles Wu Pao Chun**  
+  Address: 42, Section 2, Minzu Road, Tainan City, Taiwan  
+  Phone: +886 6 222 0089  
+  [Google Maps](https://www.google.com/maps/search/?api=1&query=Danzai+Noodles+Wu+Pao+Chun+42+Section+2+Minzu+Road+Tainan+City+Taiwan)  
+  - **Hours:** 10:00 AM - 9:00 PM  
+  - **Specialty:** Traditional Danzai noodles.  
+  Estimated cost: $7 per person.
 
----
+- **Explore Christmas Events & Markets**  
+  Various venues across Tainan City featuring seasonal decorations and local crafts.  
+  - **Transport:** Bicycles can be rented to explore various spots easily.
 
-## Day 4: October 19 (Sunday)
-### Morning
-- **Chiang Kai-Shek Memorial Hall**  
-  **Address**: No. 21, Zhongshan S Rd, Zhongzheng District, Taipei City, Taiwan 100  
-  [Google Maps](https://www.google.com/maps/search/?api=1&query=Chiang+Kai-Shek+Memorial+Hall+no.+21+Zhongshan+S+Rd+Zhongzheng+District+Taipei+City)  
-  **Hours**: 9:00 AM - 6:00 PM  
-  **Entrance Fee**: Free
+### Backup Plan
+- If it rains, enjoy indoor shopping at **Tainan's Riverside Underground Mall.**  
+  Address: No. 400, Section 3, Zhonghua East Road, Tainan City, Taiwan  
+  [Google Maps](https://www.google.com/maps/search/?api=1&query=Tainan's+Riverside+Underground+Mall+No.400+Section+3+Zhonghua+East+Road+Tainan+City+Taiwan)  
+  - **Hours:** 11:00 AM - 10:00 PM  
+  - **Transport:** 15 minutes by public bus.
 
-### Afternoon
-- **Lunch at Miyahara**  
-  **Address**: No. 20, Zhongshan Rd, Taichung City, Taiwan  
-  [Google Maps](https://www.google.com/maps/search/?api=1&query=Miyahara+No.+20+Zhongshan+Rd+Taichung+City)  
-  **Contact**: +886 4 2222 2311
+## Budget Overview
+- **Estimated Costs**:  
+  - Day 1: $111 per person (max)  
+  - Day 2: $90 per person (max)  
+  - Total estimated: $201 per person for food and attractions.  
+  - Remainder available for transportation, souvenirs, and additional snacks.
 
-- **Shopping at Wufenpu Garment Wholesale Area**
+### Important Local Information and Cultural Tips  
+- **Language**: Mandarin Chinese is predominant; basic English is often spoken at tourist spots.  
+- **Currency**: New Taiwan Dollar (NTD). Cash is often necessary in markets. 
 
-### Evening
-- **Dinner at Raohe Street Night Market**  
-  **Address**: Raohe Street, Songshan District, Taipei City, Taiwan 105  
-  [Google Maps](https://www.google.com/maps/search/?api=1&query=Raohe+Street+Night+Market+Raohe+Street+Songshan+District+Taipei+City)  
-  **Hours**: 5:00 PM - 12:00 AM
+### Emergency Contacts  
+- **Police**: 110  
+- **Emergency Services**: 119  
+- **Hospital**: Tainan Municipal Hospital - Address: 200, Chenggong Road, Tainan City, Taiwan - Phone: +886 6 267 1318  
 
----
+### Winter Packing Recommendations  
+- Light sweaters and jackets recommended for cooler evenings.  
+- Umbrella or light raincoat could be useful, as occasional rain may occur.
 
-## Day 5: October 20 (Monday)
-### Morning
-- **Explore Sogo Department Store**  
-  **Address**: 301, Zhongxiao E Rd, Xinyi District, Taipei City, Taiwan 110  
-  [Google Maps](https://www.google.com/maps/search/?api=1&query=Sogo+Department+Store+301+Zhongxiao+E+Rd+Xinyi+District+Taipei+City)  
-  **Hours**: 11:00 AM - 10:00 PM
+### Pre-trip Checklist  
+- Confirm hotel bookings  
+- Check for cultural events in Tainan on desired dates  
+- Pack all necessary travel documents
 
-### Afternoon
-- **Lunch at Sushi Express**  
-  **Address**: 1F, No. 23, Sec. 4, Zhongxiao E Rd, Taipei City, Taiwan 110  
-  [Google Maps](https://www.google.com/maps/search/?api=1&query=Sushi+Express+1F+No.+23+Sec.+4+Zhongxiao+E+Rd+Taipei+City)  
-  **Contact**: +886 2 2760 0366
+### Weather Patterns and Seasonal Expectations  
+- Average Temperature: 19–23°C (66–73°F), mild and comfortable for outdoor activities.  
+- Tainan typically experiences lower rainfall in December.  
 
-### Evening
-- **Last-minute shopping or Relax at a Café**  
-  - **Café Recommendation**: **Louisa Coffee**  
-    **Address**: No. 177, Sec. 4, Zhongxiao E Rd, Taipei City, Taiwan 110  
-    [Google Maps](https://www.google.com/maps/search/?api=1&query=Louisa+Coffee+No.+177+Sec.+4+Zhongxiao+E+Rd+Taipei+City)  
-    **Contact**: +886 2 2723 2285
+### Alternative Plans  
+- If key attractions are crowded, consider alternate days for off-peak visits or local parks.
 
----
+```
 
-## Emergency Contacts
-- **Local Hospital**: National Taiwan University Hospital  
-  **Address**: No. 7, Chung Shan South Rd, Taipei City, Taiwan 100  
-  [Google Maps](https://www.google.com/maps/search/?api=1&query=National+Taiwan+University+Hospital+No.+7+Chung+Shan+South+Rd+Taipei+City)  
-  **Phone**: +886 2 2312 3456
-
-- **Local police**: 110
-
-- **Local Fire Department**: 119
-
-## Seasonal Packing Recommendations
-- Light layers for cool evenings.
-- Comfortable walking shoes.
-- An umbrella or light raincoat.
-
-## Pre-Trip Checklist
-- Verify visa requirements and complete the Taiwan Arrival Card online.
-- Book accommodations in advance (consider Xinyi or Da'an District).
-
----
-
-## Local Cultural Insights
-- Familiarize yourself with the local customs and some key Mandarin phrases.
-- Respect local traditions, especially during the Mid-Autumn Festival.
-
----
-
-## Backup Plans
-In case of rain or other unforeseen circumstances, consider visiting indoor attractions such as the Taipei Fine Arts Museum or National Taiwan Museum.
-
----
-
-This itinerary provides a comprehensive guide for your 5-day journey in Taipei, packed with cultural experiences, local cuisine, and beautiful sights to celebrate the autumn season in Taiwan!
+This detailed travel plan serves as a complete reference for your 2-day trip to Tainan, Taiwan. You may refer to the interactive HTML version [here](C:\Users\user\Documents\bootcamp\travel-planner\travel_planner\src\travel_planner\travel_plan_Tainan_Taiwan.html). Enjoy your trip!
