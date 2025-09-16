@@ -77,8 +77,8 @@ def run():
             demo_date = datetime(2025, 12, 15)  # Winter season
             inputs = {
                 'destination': 'Tokyo, Japan',
-                'duration': 7,
-                'budget': '$3000 USD',
+                'duration': 2,
+                'budget': '$1000 USD',
                 'travel_style': 'cultural',
                 'start_date': demo_date.strftime('%Y-%m-%d'),
                 'travel_month': demo_date.strftime('%B'),
