@@ -4,6 +4,7 @@ from crewai.agents.agent_builder.base_agent import BaseAgent
 from typing import List
 from travel_planner.tools.search_tool import SearchTool
 from travel_planner.tools.travel_tools import CalculatorTool, WeatherTool
+from travel_planner.tools.html_generator import HTMLGenerator
 
 @CrewBase
 class TravelPlanner():
@@ -24,7 +25,7 @@ class TravelPlanner():
     def itinerary_planner(self) -> Agent:
         return Agent(
             config=self.agents_config['itinerary_planner'], # type: ignore[index]
-            tools=[SearchTool(), CalculatorTool()],
+            tools=[SearchTool(), CalculatorTool(), HTMLGenerator()],
             verbose=True
         )
 
@@ -74,6 +75,8 @@ class TravelPlanner():
             config=self.tasks_config['final_travel_plan_task'], # type: ignore[index]
             output_file='travel_plan.md'
         )
+
+
 
     @crew
     def crew(self) -> Crew:

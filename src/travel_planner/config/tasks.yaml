@@ -22,17 +22,22 @@ destination_research_task:
 itinerary_planning_task:
   description: >
     Create a detailed {duration}-day itinerary for {destination} starting {start_date} ({travel_season} season) within a budget of {budget}.
-    Consider the seasonal research findings and organize activities by:
+    For EACH location and activity, provide:
+    - Exact street address (e.g., "1-1 Oshiage, Sumida City, Tokyo 131-0045, Japan")
+    - Google Maps URL in this exact format: "https://www.google.com/maps/search/?api=1&query=Tokyo+Skytree+1-1+Oshiage+Sumida+Tokyo+Japan"
+    - Operating hours and seasonal schedules
+    - Entrance fees and booking requirements
+    - Nearest train/subway station with walking time
+    
+    Organize activities by:
     - Day-by-day schedule optimized for {travel_season} weather conditions
-    - Morning, afternoon, and evening activities suitable for {travel_month}
-    - Optimal routes considering seasonal weather patterns
-    - Mix of seasonal attractions, indoor/outdoor balance for {travel_season}
-    - Recommended seasonal dining options and local specialties for {travel_month}
-    - Transportation between locations considering weather conditions
-    - Estimated time needed for each activity in {travel_season}
-    - Weather-specific backup plans and indoor alternatives
-    - Seasonal events and festivals happening during the travel dates
-    - Free time for seasonal activities and spontaneous exploration
+    - Morning, afternoon, and evening activities with specific times
+    - Optimal routes with exact transportation details between locations
+    - Mix of seasonal attractions with full contact information
+    - Recommended restaurants with addresses, phone numbers, and Google Maps links
+    - Estimated travel time between each location
+    - Weather-specific backup plans with alternative indoor locations
+    - Seasonal events with venue addresses and booking information
   expected_output: >
     A detailed day-by-day itinerary with specific times, locations, activities, 
     estimated costs, and practical tips for {duration} days in {destination}.
@@ -40,18 +45,25 @@ itinerary_planning_task:
 
 local_insights_task:
   description: >
-    Provide insider local knowledge and seasonal recommendations for {destination} during {travel_month} ({travel_season}):
-    - Hidden gems and seasonal off-the-beaten-path locations for {travel_season}
-    - Best local restaurants and seasonal food specialties available in {travel_month}
-    - Seasonal street food and local delicacies specific to {travel_season}
-    - Cultural etiquette and seasonal social norms
+    Provide insider local knowledge with specific location details for {destination} during {travel_month} ({travel_season}):
+    For EACH recommendation, include:
+    - Exact address and Google Maps URL in format: "https://www.google.com/maps/search/?api=1&query=[Location+Name]+[Full+Address]"
+    - Operating hours and seasonal availability
+    - Contact information (phone, website) when available
+    - Nearest public transportation access
+    
+    Cover these areas:
+    - Hidden gems and off-the-beaten-path locations with precise addresses
+    - Best local restaurants with full address, phone, and Google Maps links
+    - Seasonal street food locations and market addresses
+    - Cultural sites with specific location information
     - Local phrases helpful for {travel_season} travel
-    - Best areas to stay considering {travel_season} conditions
-    - Seasonal local markets and shopping opportunities in {travel_month}
+    - Best neighborhoods to stay with area names and characteristics
+    - Seasonal local markets with addresses and operating schedules
     - Weather-specific tips and local advice for {travel_season}
-    - Transportation hacks and seasonal money-saving strategies
-    - Unique local experiences only available during {travel_season}
-    - Local festivals, events, or traditions happening in {travel_month}
+    - Transportation hubs and connection points with addresses
+    - Unique local experiences with venue information and booking details
+    - Local festivals and events with venue addresses and schedules
   expected_output: >
     A comprehensive local expert guide with insider tips, specific recommendations, 
     and cultural insights that will enhance the travel experience in {destination}.
@@ -79,17 +91,50 @@ budget_analysis_task:
 final_travel_plan_task:
   description: >
     Compile all seasonal research, itinerary, local insights, and budget information into a comprehensive 
-    travel plan for {destination} starting {start_date} ({travel_season} season). Create a master document that includes:
+    travel plan for {destination} starting {start_date} ({travel_season} season). 
+    
+    Create a detailed master document with:
     - Executive summary highlighting seasonal travel advantages
-    - Complete day-by-day itinerary optimized for {travel_month} conditions
-    - Seasonal budget breakdown and spending guidelines
-    - Important local information and {travel_season}-specific cultural tips
-    - Emergency contacts and seasonal important numbers
-    - {travel_season} packing recommendations and weather-appropriate clothing
-    - Pre-trip checklist with seasonal considerations
-    - {travel_season} weather patterns and what to expect
-    - Alternative indoor/outdoor plans for various {travel_season} weather conditions
-    - Seasonal events and festivals happening during the travel period
+    - Complete day-by-day itinerary with:
+      * Exact addresses for every location
+      * Google Maps URLs for all attractions, restaurants, and hotels
+      * Operating hours and contact information
+      * Estimated costs and booking requirements
+      * Transportation details between locations
+    - Seasonal budget breakdown with specific vendor information
+    - Important local information and cultural tips
+    - Emergency contacts with addresses and phone numbers
+    - {travel_season} packing recommendations
+    - Pre-trip checklist with booking links when possible
+    - Weather patterns and seasonal expectations
+    - Alternative plans with backup venue addresses
+    
+    Format all location information consistently as:
+    **Location Name**
+    Address: [Full Address]
+    Google Maps: https://www.google.com/maps/search/?api=1&query=[Location+Name]+[Address+with+plus+signs]
+    Hours: [Operating Hours]
+    Contact: [Phone/Website]
+    Notes: [Special information]
+    
+    CRITICAL: Google Maps URLs must use EXACTLY this format:
+    https://www.google.com/maps/search/?api=1&query=Tokyo+Skytree+1-1-2+Oshiage+Sumida+City+Tokyo+Japan
+    
+    URL Generation Rules:
+    1. Start with: https://www.google.com/maps/search/?api=1&query=
+    2. Add location name + full address
+    3. Replace ALL spaces with + signs
+    4. Remove commas and parentheses from query
+    5. Use English address format
+    
+    Example URLs that work:
+    - https://www.google.com/maps/search/?api=1&query=Tokyo+Skytree+1-1-2+Oshiage+Sumida+City+Tokyo+Japan
+    - https://www.google.com/maps/search/?api=1&query=Senso-ji+Temple+2-3-1+Asakusa+Taito+City+Tokyo+Japan
+    
+    DO NOT use old formats like maps.google.com/maps?q= or shortened URLs.
+    
+    After completing the markdown document, use the HTML Generator tool to create an interactive 
+    HTML version with embedded Google Maps and enhanced formatting.
   expected_output: >
     A comprehensive travel guide document for {destination} that serves as a complete 
     reference for the entire trip, formatted as a well-organized markdown document.
