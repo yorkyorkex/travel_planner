@@ -1,152 +1,171 @@
-# 7-Day Winter Itinerary for Tokyo, Japan
+# Comprehensive Travel Itinerary for Taipei, Taiwan (October 16-20, 2025)
 
 ## Executive Summary
-Tokyo in December offers a magical experience filled with winter illuminations, festive markets, and unique cultural events. The average temperature ranges from 5°C to 12°C, making it a cool but enjoyable time to explore the city. Visitors can enjoy the Tokyo Christmas Market and stunning light displays, along with traditional attractions like temples and shrines that adorn the city's landscape. 
+October is an ideal time to explore Taipei, Taiwan, thanks to its mild temperatures averaging between 20°C and 25°C (68°F - 77°F), reduced humidity, and the vibrant atmosphere of autumn festivals. Key attractions like Taipei 101 and Elephant Mountain offer stunning views, while local night markets provide delicious culinary experiences. The cultural richness of the city, with events such as the Mid-Autumn Festival and the annual LGBT Pride Parade, makes this a season not to be missed.
 
-## Day 1: December 15, 2025
-### Morning: Arrival in Tokyo
-- **Transportation to Hotel**: Take the Narita Express from Narita Airport to Tokyo Station (Approx. 60 min, $25).
-- **Check-In**: Hotel Gracery Shinjuku, 1-19-1 Kabukicho, Shinjuku-ku, Tokyo 160-0021, Japan.
+## Weather Conditions
+- **Average Temperature**: 20°C to 25°C (68°F to 77°F)
+- **Weather Patterns**: Expect occasional rain, so a light jacket or rain gear is recommended.
 
-### Afternoon: Meiji Shrine
-- **Address**: 1-1 Yoyogikamizonocho, Shibuya City, Tokyo 151-0051, Japan.
-- **Hours**: 5:00 – 17:00.
-- **Entry Fee**: Free.
-- **Google Maps**: [Link](https://www.google.com/maps/search/?api=1&query=Meiji+Shrine+1-1+Yoyogikamizonocho+Shibuya+Tokyo+Japan)
-- **Nearest Station**: Harajuku Station (10 min walk).
+## Day 1: October 16 (Thursday)
+### Morning
+- **Taipei 101**  
+  **Address**: 7, Sec. 5, Xinyi Rd, Xinyi District, Taipei City, Taiwan 110  
+  [Google Maps](https://www.google.com/maps/search/?api=1&query=Taipei+101+7+Sec.+5+Xinyi+Rd+Xinyi+District+Taipei+City)  
+  **Hours**: 9:00 AM - 10:00 PM  
+  **Contact**: [Website](https://www.taipei101.com.tw)
 
-### Evening: Dinner and Winter Illuminations
-- **Recommended Restaurant**: **Sushi No Midori** - Address: 2-2-1 Hibiya, Chiyoda City, Tokyo 100-0006, Japan.
-- **Hours**: 11:00 - 22:00.
-- **Google Maps**: [Link](https://www.google.com/maps/search/?api=1&query=Sushi+No+Midori+2-2-1+Hibiya+Chiyoda+Tokyo+Japan).
-- **Travel**: 30 min via JR Yamanote Line from Harajuku to Tokyo Station.
+### Afternoon
+- **Lunch at Yong He Soy Milk King**  
+  **Address**: 1F, No. 1, Lane 58, Xinyuan St, Da'an District, Taipei City, Taiwan 106  
+  [Google Maps](https://www.google.com/maps/search/?api=1&query=Yong+He+Soy+Milk+King+1F+No.+1+Lane+58+Xinyuan+St+Da'an+District+Taipei+City)  
+  **Contact**: +886 2 2341 0288
 
-### Night: Roppongi Winter Illuminations 
-- **Location**: Roppongi Hills, Minato City, Tokyo 106-6108, Japan. 
-- **Event Dates**: November 7 - December 25.
+- **Da’An Forest Park**  
+  **Address**: No. 1, Sec. 2, Xinsheng S. Rd., Da'an Dist., Taipei City, Taiwan 106  
+  [Google Maps](https://www.google.com/maps/search/?api=1&query=Da'An+Forest+Park+No.+1+Sec.+2+Xinsheng+S.+Rd.+Da%27an+Dist.+Taipei+City)  
+  **Hours**: Open 24 hours
 
---- 
+### Evening
+- **Elephant Mountain Hike**  
+  **Address**: Alley 342, Lane 150, Xiangshan Rd, Xinyi District, Taipei City, Taiwan 110  
+  [Google Maps](https://www.google.com/maps/search/?api=1&query=Elephant+Mountain+Alley+342+Lane+150+Xiangshan+Rd+Xinyi+District+Taipei+City)  
+  **Hours**: Open 24 hours
 
-## Day 2: December 16, 2025
-### Morning: Senso-ji Temple
-- **Address**: 2-3-1 Asakusa, Taito City, Tokyo 111-0032, Japan.
-- **Hours**: 6:00 – 17:00.
-- **Entry Fee**: Free.
-- **Google Maps**: [Link](https://www.google.com/maps/search/?api=1&query=Senso-ji+2-3-1+Asakusa+Taito+Tokyo+Japan).
-- **Nearest Station**: Asakusa Station (5 min walk).
-
-### Afternoon: Asakusa Culture
-- **Lunch**: **Asakusa Kikko** (Famous for tempura).
-- **Address**: 2-20-1 Asakusa, Taito City, Tokyo 111-0032.
-- **Google Maps**: [Link](https://www.google.com/maps/search/?api=1&query=Asakusa+Kikko+2-20-1+Asakusa+Taito+Tokyo+Japan).
-
-### Evening: Tokyo Tower
-- **Address**: 4-2-8 Shiba-koen, Minato City, Tokyo 105-0011, Japan.
-- **Hours**: 9:00 - 21:00.
-- **Entry Fee**: $20.
-- **Google Maps**: [Link](https://www.google.com/maps/search/?api=1&query=Tokyo+Tower+4-2-8+Shiba-koen+Minato+Tokyo+Japan).
-- **Nearest Station**: Akabanebashi Station (7 min walk).
+- **Dinner at Shilin Night Market**  
+  **Address**: No. 101, Jihe Rd, Shilin District, Taipei City, Taiwan 111  
+  [Google Maps](https://www.google.com/maps/search/?api=1&query=Shilin+Night+Market+No.+101+Jihe+Rd+Shilin+District+Taipei+City)  
+  **Hours**: 6:00 PM - 1:00 AM
 
 ---
 
-## Day 3: December 17, 2025
-### Morning: Tokyo Skytree
-- **Address**: 1 Chome-1-2 Oshiage, Sumida City, Tokyo 131-0045, Japan.
-- **Hours**: 10:00 - 20:00.
-- **Entry Fee**: $22 for base ticket.
-- **Google Maps**: [Link](https://www.google.com/maps/search/?api=1&query=Tokyo+Skytree+1+Chome-1-2+Oshiage+Sumida+Tokyo+Japan).
-- **Nearest Station**: Tokyo Skytree Station (5 min walk).
+## Day 2: October 17 (Friday)
+### Morning
+- **National Palace Museum**  
+  **Address**: No. 221, Sec. 2, Zhishan Rd., Shilin Dist., Taipei City, Taiwan 111  
+  [Google Maps](https://www.google.com/maps/search/?api=1&query=National+Palace+Museum+No.+221+Sec.+2+Zhishan+Rd.+Shilin+Dist.+Taipei+City)  
+  **Hours**: 9:00 AM - 5:00 PM  
+  **Contact**: [Website](https://www.npm.gov.tw/en)  
+  **Entrance Fee**: NTD 350 (~$12 USD) - book in advance.
 
-### Afternoon: Shopping at Asakusa
-- Explore narrow shopping streets for traditional snacks and local crafts.
+### Afternoon
+- **Lunch at Ah-Chung Mian Xian**  
+  **Address**: No. 8, Emei St, Wanhua District, Taipei City, Taiwan 108  
+  [Google Maps](https://www.google.com/maps/search/?api=1&query=Ah-Chung+Mian+Xian+No.+8+Emei+St.+Wanhua+District+Taipei+City)  
+  **Contact**: +886 2 2381 1101
 
-### Evening: Dinner and Tokyo Dome City Illumination
-- **Restaurant**: **Ippudo** for Ramen. 
-- **Address**: 1 Chome-2-6 Bunkyo, Bunkyo City, Tokyo 113-0031.
+- **Longshan Temple**  
+  **Address**: No. 211, Guangzhou St, Wanhua District, Taipei City, Taiwan 108  
+  [Google Maps](https://www.google.com/maps/search/?api=1&query=Longshan+Temple+No.+211+Guangzhou+St+Wanhua+District+Taipei+City)  
+  **Hours**: 6:00 AM - 10:00 PM  
+  **Entrance Fee**: Free
 
----
-
-## Day 4: December 18, 2025
-### Morning: Odaiba Seaside Park
-- **Address**: 1-4-1 Daiba, Minato City, Tokyo 135-0091, Japan.
-- **Google Maps**: [Link](https://www.google.com/maps/search/?api=1&query=Odaiba+Seaside+Park+1-4-1+Daiba+Minato+Tokyo+Japan).
-
-### Afternoon: TeamLab Borderless (High-tech art museum)
-- **Address**: 1-3-8 Aomi, Koto City, Tokyo 135-0064, Japan.
-- **Hours**: 10:00 - 19:00.
-- **Google Maps**: [Link](https://www.google.com/maps/search/?api=1&query=TeamLab+Borderless+1-3-8+Aomi+Koto+Tokyo+Japan).
-
-### Evening: Return for Dinner
-- **Recommended Restaurant**: **Tsurutontan Udon Noodle Brasserie**.
+### Evening
+- **Dinner at Din Tai Fung**  
+  **Address**: 194, Xinyi Rd, Sec 2, Taipei City, Taiwan 110  
+  [Google Maps](https://www.google.com/maps/search/?api=1&query=Din+Tai+Fung+194+Xinyi+Rd+Sec+2+Taipei+City)  
+  **Contact**: +886 2 2321 8928
 
 ---
 
-## Day 5: December 19, 2025
-### Morning: Visit Gaikoku-ji Shrine
-### Afternoon: Lunch at the Tokyo Christmas Market
-- Experience festive German food and drinks at Meiji-jingu Gaien.
-- **Address**: 1-1 Meiji Jingu Gaien, Shinjuku City, Tokyo 160-0013.
+## Day 3: October 18 (Saturday)
+### Morning
+- **Yangmingshan National Park**  
+  **Address**: Beitou District, Taipei City, Taiwan 112  
+  [Google Maps](https://www.google.com/maps/search/?api=1&query=Yangmingshan+National+Park+Beitou+District+Taipei+City)  
+  **Hours**: 8:00 AM - 6:00 PM  
+  **Entrance Fee**: Free
 
-### Evening: Winter Illuminations at Marunouchi
+### Afternoon
+- **Lunch at Grass Mountain Chateau**  
+  **Address**: No. 78, Zhuzihu Rd, Beitou District, Taipei City, Taiwan 112  
+  [Google Maps](https://www.google.com/maps/search/?api=1&query=Grass+Mountain+Chateau+No.+78+Zhuzihu+Rd+Beitou+District+Taipei+City)  
+  **Contact**: +886 2 2897 1888
 
----
-
-## Day 6: December 20, 2025
-### Morning: Culture Day at Ueno Park
-- **Address**: 5-20 Uenokoen, Taito City, Tokyo 110-0007, Japan.
-
-### Afternoon: Tokyo National Museum or Ueno Zoo
-
-### Evening: Dinner
-- **At a Local Izakaya for Authentic Japanese Experience**.
-
----
-
-## Day 7: December 21, 2025
-### Morning: Shopping in Ginza
-### Afternoon: Departure Prep and Last-Minute Sightseeing
-### Evening: Final Dinner
-- **Any preferred option or revisit favorites**.
+### Evening
+- **Dinner at Balle Balle Indian Restaurant**  
+  **Address**: 75, Sec. 3, Chengde Rd, Datong District, Taipei City, Taiwan 103  
+  [Google Maps](https://www.google.com/maps/search/?api=1&query=Balle+Balle+Indian+Restaurant+75+Sec.+3+Chengde+Rd+Datong+District+Taipei+City)  
+  **Contact**: +886 2 2552 0101
 
 ---
 
-## Total Estimated Cost: 
-- Accommodation: $1200 (178/night).
-- Food: $400 ($57/day).
-- Transport: $210.
-- Attractions: $320.
-- Misc: $170.
-**Total Budget: $2500**.
+## Day 4: October 19 (Sunday)
+### Morning
+- **Chiang Kai-Shek Memorial Hall**  
+  **Address**: No. 21, Zhongshan S Rd, Zhongzheng District, Taipei City, Taiwan 100  
+  [Google Maps](https://www.google.com/maps/search/?api=1&query=Chiang+Kai-Shek+Memorial+Hall+no.+21+Zhongshan+S+Rd+Zhongzheng+District+Taipei+City)  
+  **Hours**: 9:00 AM - 6:00 PM  
+  **Entrance Fee**: Free
 
-### Seasonal Packing Recommendations
-- Dress in layers with light sweaters, a heavier jacket, gloves, a hat, and warm socks for colder evenings. Waterproof shoes can be helpful in case of rain or snow.
+### Afternoon
+- **Lunch at Miyahara**  
+  **Address**: No. 20, Zhongshan Rd, Taichung City, Taiwan  
+  [Google Maps](https://www.google.com/maps/search/?api=1&query=Miyahara+No.+20+Zhongshan+Rd+Taichung+City)  
+  **Contact**: +886 4 2222 2311
+
+- **Shopping at Wufenpu Garment Wholesale Area**
+
+### Evening
+- **Dinner at Raohe Street Night Market**  
+  **Address**: Raohe Street, Songshan District, Taipei City, Taiwan 105  
+  [Google Maps](https://www.google.com/maps/search/?api=1&query=Raohe+Street+Night+Market+Raohe+Street+Songshan+District+Taipei+City)  
+  **Hours**: 5:00 PM - 12:00 AM
 
 ---
 
-## Important Local Information and Cultural Tips
-- Remember that while Christmas is celebrated in Japan, it is not a traditional holiday. The New Year's celebrations take precedence after December 25.
-- Carry cash for small purchases at local vendors, especially around markets.
+## Day 5: October 20 (Monday)
+### Morning
+- **Explore Sogo Department Store**  
+  **Address**: 301, Zhongxiao E Rd, Xinyi District, Taipei City, Taiwan 110  
+  [Google Maps](https://www.google.com/maps/search/?api=1&query=Sogo+Department+Store+301+Zhongxiao+E+Rd+Xinyi+District+Taipei+City)  
+  **Hours**: 11:00 AM - 10:00 PM
+
+### Afternoon
+- **Lunch at Sushi Express**  
+  **Address**: 1F, No. 23, Sec. 4, Zhongxiao E Rd, Taipei City, Taiwan 110  
+  [Google Maps](https://www.google.com/maps/search/?api=1&query=Sushi+Express+1F+No.+23+Sec.+4+Zhongxiao+E+Rd+Taipei+City)  
+  **Contact**: +886 2 2760 0366
+
+### Evening
+- **Last-minute shopping or Relax at a Café**  
+  - **Café Recommendation**: **Louisa Coffee**  
+    **Address**: No. 177, Sec. 4, Zhongxiao E Rd, Taipei City, Taiwan 110  
+    [Google Maps](https://www.google.com/maps/search/?api=1&query=Louisa+Coffee+No.+177+Sec.+4+Zhongxiao+E+Rd+Taipei+City)  
+    **Contact**: +886 2 2723 2285
 
 ---
 
 ## Emergency Contacts
-- **Tokyo Police**: 110
-- **Tokyo Fire Department**: 119
-- **Nearest Hospital**: Keio University Hospital, 35 Shinanomachi, Shinjuku City, Tokyo 160-8582, Japan. Contact: +81 3-3353-1211.
+- **Local Hospital**: National Taiwan University Hospital  
+  **Address**: No. 7, Chung Shan South Rd, Taipei City, Taiwan 100  
+  [Google Maps](https://www.google.com/maps/search/?api=1&query=National+Taiwan+University+Hospital+No.+7+Chung+Shan+South+Rd+Taipei+City)  
+  **Phone**: +886 2 2312 3456
 
----
+- **Local police**: 110
+
+- **Local Fire Department**: 119
+
+## Seasonal Packing Recommendations
+- Light layers for cool evenings.
+- Comfortable walking shoes.
+- An umbrella or light raincoat.
 
 ## Pre-Trip Checklist
-- Confirm flight and accommodation bookings.
-- Purchase Suica or PASMO card for transport.
-- Review cultural etiquette for visiting temples and shrines.
-- Check weather forecast leading up to the trip.
-- Ensure all travel documents and visa requirements are fulfilled.
+- Verify visa requirements and complete the Taiwan Arrival Card online.
+- Book accommodations in advance (consider Xinyi or Da'an District).
 
 ---
 
-**Estimated Weather Patterns**: Expect cool temperatures ranging between 5°C to 12°C with a possibility of light snowfall, typically dry.
+## Local Cultural Insights
+- Familiarize yourself with the local customs and some key Mandarin phrases.
+- Respect local traditions, especially during the Mid-Autumn Festival.
 
 ---
 
-This detailed itinerary will guide you through an unforgettable winter experience in Tokyo, ensuring you capture the essence of the city's festive spirit and cultural richness during your stay!
+## Backup Plans
+In case of rain or other unforeseen circumstances, consider visiting indoor attractions such as the Taipei Fine Arts Museum or National Taiwan Museum.
+
+---
+
+This itinerary provides a comprehensive guide for your 5-day journey in Taipei, packed with cultural experiences, local cuisine, and beautiful sights to celebrate the autumn season in Taiwan!
