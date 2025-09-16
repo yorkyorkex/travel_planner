@@ -1,17 +1,19 @@
 destination_research_task:
   description: >
-    Research comprehensive information about {destination} for a {duration}-day trip.
+    Research comprehensive information about {destination} for a {duration}-day trip starting {start_date} during {travel_season} season.
     Focus on:
-    - Top attractions and must-see places
-    - Local culture and customs
-    - Weather conditions during the travel period
-    - Transportation options (flights, local transport)
-    - Safety considerations and travel advisories
+    - Top attractions and seasonal highlights for {travel_month}
+    - Local culture and customs specific to {travel_season}
+    - Weather conditions and climate patterns for {travel_month} in {destination}
+    - Seasonal clothing recommendations and packing tips
+    - Transportation options and seasonal schedules
+    - Safety considerations and seasonal travel advisories
     - Visa requirements and entry regulations
     - Currency and payment methods
     - Language considerations
-    - Best time to visit specific attractions
-    - Local events or festivals during the travel dates
+    - Best attractions to visit during {travel_season} season
+    - Local events, festivals, or seasonal activities in {travel_month}
+    - Seasonal operating hours and closures of attractions
   expected_output: >
     A comprehensive research report about {destination} including all the key information 
     needed for trip planning, formatted as detailed bullet points with specific facts and recommendations.
@@ -19,16 +21,18 @@ destination_research_task:
 
 itinerary_planning_task:
   description: >
-    Create a detailed {duration}-day itinerary for {destination} within a budget of {budget}.
-    Consider the research findings and organize activities by:
-    - Day-by-day schedule with morning, afternoon, and evening activities
-    - Optimal routes to minimize travel time
-    - Mix of popular attractions and hidden gems
-    - Recommended dining options for each day
-    - Transportation between locations
-    - Estimated time needed for each activity
-    - Alternative options in case of weather issues
-    - Free time for spontaneous exploration
+    Create a detailed {duration}-day itinerary for {destination} starting {start_date} ({travel_season} season) within a budget of {budget}.
+    Consider the seasonal research findings and organize activities by:
+    - Day-by-day schedule optimized for {travel_season} weather conditions
+    - Morning, afternoon, and evening activities suitable for {travel_month}
+    - Optimal routes considering seasonal weather patterns
+    - Mix of seasonal attractions, indoor/outdoor balance for {travel_season}
+    - Recommended seasonal dining options and local specialties for {travel_month}
+    - Transportation between locations considering weather conditions
+    - Estimated time needed for each activity in {travel_season}
+    - Weather-specific backup plans and indoor alternatives
+    - Seasonal events and festivals happening during the travel dates
+    - Free time for seasonal activities and spontaneous exploration
   expected_output: >
     A detailed day-by-day itinerary with specific times, locations, activities, 
     estimated costs, and practical tips for {duration} days in {destination}.
@@ -36,16 +40,18 @@ itinerary_planning_task:
 
 local_insights_task:
   description: >
-    Provide insider local knowledge and recommendations for {destination}:
-    - Hidden gems and off-the-beaten-path locations
-    - Best local restaurants and street food spots
-    - Cultural etiquette and social norms
-    - Local phrases that would be helpful
-    - Best areas to stay and areas to avoid
-    - Local markets and shopping recommendations
-    - Seasonal considerations and local tips
-    - Transportation hacks and money-saving tips
-    - Local experiences unique to the destination
+    Provide insider local knowledge and seasonal recommendations for {destination} during {travel_month} ({travel_season}):
+    - Hidden gems and seasonal off-the-beaten-path locations for {travel_season}
+    - Best local restaurants and seasonal food specialties available in {travel_month}
+    - Seasonal street food and local delicacies specific to {travel_season}
+    - Cultural etiquette and seasonal social norms
+    - Local phrases helpful for {travel_season} travel
+    - Best areas to stay considering {travel_season} conditions
+    - Seasonal local markets and shopping opportunities in {travel_month}
+    - Weather-specific tips and local advice for {travel_season}
+    - Transportation hacks and seasonal money-saving strategies
+    - Unique local experiences only available during {travel_season}
+    - Local festivals, events, or traditions happening in {travel_month}
   expected_output: >
     A comprehensive local expert guide with insider tips, specific recommendations, 
     and cultural insights that will enhance the travel experience in {destination}.
@@ -53,17 +59,18 @@ local_insights_task:
 
 budget_analysis_task:
   description: >
-    Create a detailed budget breakdown for a {duration}-day trip to {destination} with a total budget of {budget}.
-    Include:
-    - Accommodation costs (different options from budget to luxury)
-    - Transportation costs (flights, local transport, taxis)
-    - Food and dining expenses (restaurants, street food, groceries)
-    - Activity and attraction entrance fees
-    - Shopping and souvenir budget
-    - Emergency fund recommendations
-    - Money-saving tips and strategies
-    - Cost comparison of different options
-    - Daily spending recommendations
+    Create a detailed budget breakdown for a {duration}-day trip to {destination} starting {start_date} ({travel_season} season) with a total budget of {budget}.
+    Include seasonal pricing considerations:
+    - Accommodation costs for {travel_season} (peak/off-peak pricing, seasonal availability)
+    - Transportation costs considering {travel_month} pricing (flights, seasonal transport schedules)
+    - Food and dining expenses with seasonal menu pricing and availability
+    - Activity and attraction entrance fees (seasonal pricing, weather-dependent activities)
+    - Shopping budget considering seasonal sales and local markets in {travel_month}
+    - Emergency fund recommendations for {travel_season} conditions
+    - Seasonal money-saving tips and strategies specific to {travel_month}
+    - Cost comparison of seasonal vs year-round options
+    - Daily spending recommendations adjusted for {travel_season} pricing
+    - Seasonal discount opportunities and deals available in {travel_month}
   expected_output: >
     A detailed budget breakdown with specific cost estimates, money-saving tips, 
     and spending recommendations for {duration} days in {destination} within the {budget} budget.
@@ -71,16 +78,18 @@ budget_analysis_task:
 
 final_travel_plan_task:
   description: >
-    Compile all research, itinerary, local insights, and budget information into a comprehensive 
-    travel plan for {destination}. Create a master document that includes:
-    - Executive summary of the trip
-    - Complete day-by-day itinerary
-    - Budget breakdown and spending guidelines
-    - Important local information and cultural tips
-    - Emergency contacts and important numbers
-    - Packing recommendations
-    - Pre-trip checklist
-    - Alternative plans for different weather conditions
+    Compile all seasonal research, itinerary, local insights, and budget information into a comprehensive 
+    travel plan for {destination} starting {start_date} ({travel_season} season). Create a master document that includes:
+    - Executive summary highlighting seasonal travel advantages
+    - Complete day-by-day itinerary optimized for {travel_month} conditions
+    - Seasonal budget breakdown and spending guidelines
+    - Important local information and {travel_season}-specific cultural tips
+    - Emergency contacts and seasonal important numbers
+    - {travel_season} packing recommendations and weather-appropriate clothing
+    - Pre-trip checklist with seasonal considerations
+    - {travel_season} weather patterns and what to expect
+    - Alternative indoor/outdoor plans for various {travel_season} weather conditions
+    - Seasonal events and festivals happening during the travel period
   expected_output: >
     A comprehensive travel guide document for {destination} that serves as a complete 
     reference for the entire trip, formatted as a well-organized markdown document.

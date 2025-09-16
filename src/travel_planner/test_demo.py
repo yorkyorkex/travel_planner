@@ -55,6 +55,7 @@ def simple_demo():
     print("Duration: 7 days")
     print("Budget: $3000 USD")
     print("Style: Cultural tour")
+    print("Start Date: December 15, 2025 (Winter Season)")
     
     if not test_environment():
         print("Environment setup incomplete, cannot continue")
@@ -67,11 +68,16 @@ def simple_demo():
     try:
         from travel_planner.crew import TravelPlanner
         
+        # Demo with winter season for seasonal planning
+        demo_date = datetime(2025, 12, 15)
         inputs = {
             'destination': 'Tokyo, Japan',
             'duration': 7,
             'budget': '$3000 USD',
             'travel_style': 'cultural',
+            'start_date': demo_date.strftime('%Y-%m-%d'),
+            'travel_month': demo_date.strftime('%B'),
+            'travel_season': 'Winter',
             'current_year': str(datetime.now().year)
         }
         
