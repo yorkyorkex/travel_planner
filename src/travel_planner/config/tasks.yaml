@@ -1,0 +1,87 @@
+destination_research_task:
+  description: >
+    Research comprehensive information about {destination} for a {duration}-day trip.
+    Focus on:
+    - Top attractions and must-see places
+    - Local culture and customs
+    - Weather conditions during the travel period
+    - Transportation options (flights, local transport)
+    - Safety considerations and travel advisories
+    - Visa requirements and entry regulations
+    - Currency and payment methods
+    - Language considerations
+    - Best time to visit specific attractions
+    - Local events or festivals during the travel dates
+  expected_output: >
+    A comprehensive research report about {destination} including all the key information 
+    needed for trip planning, formatted as detailed bullet points with specific facts and recommendations.
+  agent: travel_researcher
+
+itinerary_planning_task:
+  description: >
+    Create a detailed {duration}-day itinerary for {destination} within a budget of {budget}.
+    Consider the research findings and organize activities by:
+    - Day-by-day schedule with morning, afternoon, and evening activities
+    - Optimal routes to minimize travel time
+    - Mix of popular attractions and hidden gems
+    - Recommended dining options for each day
+    - Transportation between locations
+    - Estimated time needed for each activity
+    - Alternative options in case of weather issues
+    - Free time for spontaneous exploration
+  expected_output: >
+    A detailed day-by-day itinerary with specific times, locations, activities, 
+    estimated costs, and practical tips for {duration} days in {destination}.
+  agent: itinerary_planner
+
+local_insights_task:
+  description: >
+    Provide insider local knowledge and recommendations for {destination}:
+    - Hidden gems and off-the-beaten-path locations
+    - Best local restaurants and street food spots
+    - Cultural etiquette and social norms
+    - Local phrases that would be helpful
+    - Best areas to stay and areas to avoid
+    - Local markets and shopping recommendations
+    - Seasonal considerations and local tips
+    - Transportation hacks and money-saving tips
+    - Local experiences unique to the destination
+  expected_output: >
+    A comprehensive local expert guide with insider tips, specific recommendations, 
+    and cultural insights that will enhance the travel experience in {destination}.
+  agent: local_expert
+
+budget_analysis_task:
+  description: >
+    Create a detailed budget breakdown for a {duration}-day trip to {destination} with a total budget of {budget}.
+    Include:
+    - Accommodation costs (different options from budget to luxury)
+    - Transportation costs (flights, local transport, taxis)
+    - Food and dining expenses (restaurants, street food, groceries)
+    - Activity and attraction entrance fees
+    - Shopping and souvenir budget
+    - Emergency fund recommendations
+    - Money-saving tips and strategies
+    - Cost comparison of different options
+    - Daily spending recommendations
+  expected_output: >
+    A detailed budget breakdown with specific cost estimates, money-saving tips, 
+    and spending recommendations for {duration} days in {destination} within the {budget} budget.
+  agent: budget_advisor
+
+final_travel_plan_task:
+  description: >
+    Compile all research, itinerary, local insights, and budget information into a comprehensive 
+    travel plan for {destination}. Create a master document that includes:
+    - Executive summary of the trip
+    - Complete day-by-day itinerary
+    - Budget breakdown and spending guidelines
+    - Important local information and cultural tips
+    - Emergency contacts and important numbers
+    - Packing recommendations
+    - Pre-trip checklist
+    - Alternative plans for different weather conditions
+  expected_output: >
+    A comprehensive travel guide document for {destination} that serves as a complete 
+    reference for the entire trip, formatted as a well-organized markdown document.
+  agent: itinerary_planner
